@@ -1,3 +1,5 @@
+# Gravitron [1 Level, Boom format, DOOM 2]
+# STATUS: ✅RELEASED
 ![LOGO](./Screens/GRAVITRON5.png)
 **IWAD:** Doom 2
 
@@ -7,7 +9,7 @@
 
 **Tested with:** DSDA 0.27.5, GZDoom 4.12.1, Doom Retro 5.4.0, Doom + Doom II v1.3
 
-**Download**: Here
+**Download**: [Latest Release](https://github.com/Ear1h/WAD-GRAVITRON/releases/download/v2.0/Gravitron_v2.1.wad)
 
 Lore: 
 

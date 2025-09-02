@@ -1,10 +1,7 @@
 **IWAD:** Doom 2
-
 **Level:** One level
 **Map Format:** Boom (Doom Format) + UMAPINFO
-
 **Tested with:** DSDA 0.27.5, GZDoom 4.12.1, Doom Retro 5.4.0, Doom + Doom II v1.3
-
 **Download**: Here
 
 Lore: 
